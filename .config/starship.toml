@@ -1,0 +1,10 @@
+#### STARSHIP CONFIG #####
+
+format = '''
+[┌───────────────────>](bold blue)
+[│](bold blue)$directory
+[└─>](bold blue) '''
+
+[directory]
+home_symbol = ' '
+truncation_length = 200
