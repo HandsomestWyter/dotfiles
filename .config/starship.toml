@@ -1,7 +1,7 @@
 #### STARSHIP CONFIG #####
 
 format = '''
-[┌───────────────────>](bold blue)
+[┌───────────────────>](bold red)
 [│](bold blue)$directory
 [└─>](bold blue) '''
 
