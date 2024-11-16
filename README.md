@@ -2,11 +2,11 @@
 A Repo for my dotfiles.
 
 ## Requried Software
-- Starship (Custom Terminal Prompt) 
-- Fastfetch
-- Alacrity
-- Jetbrains Mono Nerdfont
+- [Starship](https://starship.rs/) 
+- [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- [Alacritty](https://alacritty.org/)
+- [Jetbrains Mono Nerdfont](https://www.nerdfonts.com/)
 
 ## Screenshots
-### Alacrity
-![Alacrity Setup](https://github.com/HandsomestWyter/dotfiles/blob/main/screenshots/Alacrity%20Setup.png)
+### Alacritty
+![Alacritty Setup](https://github.com/HandsomestWyter/dotfiles/blob/main/screenshots/Alacrity%20Setup.png)
